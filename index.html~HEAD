@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Black and White - Paul Stokes Design</title>
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+</head>
+<body>
+<div id="container">
+
+<div id="header">
+<h1>Black and White</h1>
+</div><!-- end div header -->
+<div class="spacer"></div><!-- End  div spacer  -->
+<div class="right">
+<div id="side">
+<div class="bl"><div class="br"><div class="tl"><div class="tr">
+<h3>Navagation</h3>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Blog</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+<h3>News</h3>
+<p>Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In augue.</p>
+</div></div></div></div>
+</div><!-- End  div side  -->
+</div>
+<div class="left">
+<div id="main">
+<div class="bl"><div class="br"><div class="tl"><div class="tr">
+<p>XHTML 1.0 Strict<br />Tested in FireFox 2.0 and IE 7</p><p>This template is released under the <a href="http://creativecommons.org/licenses/by/2.5/">Creative Commons Attribution 2.5 License</a>, so you are free to use this template in any way you want under the condition that you give me credit by leaving the "Design by Paul Stokes" attribution in the footer.</p>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In augue. Sed vitae urna feugiat ante faucibus scelerisque. Maecenas non risus vitae velit auctor tincidunt. Ut facilisis elit non metus. Quisque ac dolor. Morbi eget erat in eros rhoncus imperdiet. Aenean egestas lectus ac sapien. Pellentesque non metus ac justo luctus feugiat. Nam elit elit, sagittis vel, eleifend quis, imperdiet non, lorem. In hac habitasse platea dictumst. Suspendisse convallis, dui vitae auctor elementum, eros orci porta nisl, in ullamcorper leo wisi eget mi. Sed eget sem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin sit amet diam at elit lacinia convallis. Nullam massa ligula, posuere sit amet, gravida a, placerat ac, justo. Cras vulputate. Aliquam sed enim non justo sollicitudin tempor.</p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In augue. Sed vitae urna feugiat ante faucibus scelerisque. Maecenas non risus vitae velit auctor tincidunt. Ut facilisis elit non metus. Quisque ac dolor. Morbi eget erat in eros rhoncus imperdiet. Aenean egestas lectus ac sapien. Pellentesque non metus ac justo luctus feugiat. Nam elit elit, sagittis vel, eleifend quis, imperdiet non, lorem. In hac habitasse platea dictumst. Suspendisse convallis, dui vitae auctor elementum, eros orci porta nisl, in ullamcorper leo wisi eget mi. Sed eget sem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin sit amet diam at elit lacinia convallis. Nullam massa ligula, posuere sit amet, gravida a, placerat ac, justo. Cras vulputate. Aliquam sed enim non justo sollicitudin tempor.</p>
+</div></div></div></div>
+</div><!-- End  div main  --></div>
+
+
+<div id="footer"><div class="spacer"></div><!-- End  div spacer  -->
+
+<p>© You | Design by <a href="http://www.paulstokesdesign.com">Paul Stokes</a><br />
+<a href="http://creativecommons.org/licenses/by/2.5/">Licensed under a Creative Commons Attribution 2.5 License</a></p>
+</div> <!-- end footer -->
+</div> <!-- end container -->
+</body>
+</html>
